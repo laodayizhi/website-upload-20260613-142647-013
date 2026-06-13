@@ -1,0 +1,28 @@
+{
+  "parsed_movie_count": 2000,
+  "unique_m3u8_count": 20,
+  "categories": {
+    "国产精选": 166,
+    "电影大全": 167,
+    "电视剧资源": 167,
+    "悬疑犯罪": 167,
+    "动作冒险": 167,
+    "爱情家庭": 167,
+    "科幻奇幻": 166,
+    "喜剧综艺": 168,
+    "动漫纪录": 165,
+    "港台片库": 166,
+    "日韩精选": 167,
+    "欧美影院": 167
+  },
+  "verification": {
+    "html_files": 2017,
+    "movie_pages": 2000,
+    "category_pages": 12,
+    "html_without_baidu": [],
+    "image_files_in_output": [],
+    "detail_count_ok": true,
+    "all_movies_card_count": 2000,
+    "all_movies_card_count_ok": true
+  }
+}
